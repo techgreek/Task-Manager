@@ -2,7 +2,7 @@
 
 # Website is live
 
-https://managerclient.vercel.app/
+https://task-manager-pied-three.vercel.app/
 
 1. PROJECT MANAGER WEBAPP
 2. CREATE, UPDATE, DELETE, SCHEDULE TASKS IN YOUR
@@ -10,12 +10,6 @@ https://managerclient.vercel.app/
 3. TECHNOLOGY STACK: REACTJS, EXPRESS JS, MONGODB,
    NODEJS
 
-# Install locally
-
-1. clone this repo and https://github.com/sksachin7z2/managerclient as frontend
-2. Install dependencies (npm install)
-3. npm start
-4. Same for managerclient repo
 
 # Screenshot
 
