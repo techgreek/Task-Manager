@@ -2,7 +2,7 @@ import React,{useState} from "react";
 import noteContext from "./TasksContext";
 
 const NoteState=(props)=>{
-    const host="https://memoplan7890.onrender.com";
+    const host="https://task-manager-xbw3.onrender.com";
     // const host="http://localhost:5000";
    const notesInitial=[
    
